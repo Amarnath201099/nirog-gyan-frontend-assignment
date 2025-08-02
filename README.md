@@ -70,9 +70,8 @@ src/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/nirog-gyan-frontend.git
-   cd nirog-gyan-frontend
-
+   git clone [https://github.com/Amarnath201099/nirog-gyan-frontend-assignment.git](https://github.com/Amarnath201099/nirog-gyan-frontend-assignment.git)
+   cd nirog-gyan-frontend-assignment
    ```
 
    This command copies the project repository from GitHub to your local machine and navigates into the project directory so you can start working on it.
