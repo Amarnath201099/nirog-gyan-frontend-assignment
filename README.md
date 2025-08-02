@@ -35,7 +35,7 @@ A fully responsive, intuitive, and modern healthcare appointment booking applica
 
 This project is deployed using **Vercel** for fast, secure, and serverless frontend hosting.
 
-🔗 **Live URL:** [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+🔗 **Live URL:** [https://nirog-gyan-frontend-assignment-health-care.vercel.app](https://nirog-gyan-frontend-assignment-lovat.vercel.app/)
 
 ---
 
