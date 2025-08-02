@@ -1,0 +1,192 @@
+.appointment-popup {
+  padding: 20px 30px;
+  font-family: "Inter", sans-serif;
+  color: #222;
+  background: #ffffff;
+  margin: 30px 15px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  max-height: 90vh;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.appointment-popup-doctor-name {
+  margin: 0 0 4px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #063970;
+}
+
+.appointment-popup-specialization {
+  margin: 0 0 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #555;
+}
+
+.appointment-popup-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.appointment-popup-label {
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.appointment-popup-input {
+  font-size: 12px;
+  width: 100%;
+  margin-top: 6px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline-offset: 2px;
+  outline-color: #007bff;
+}
+
+.appointment-popup-slots-group {
+  margin-bottom: 10px;
+  border: none;
+  padding: 0;
+}
+
+.appointment-popup-slots-group label {
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.appointment-popup-slots-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 8px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.appointment-popup-slot-item {
+  font-weight: 600;
+  font-size: 10px;
+}
+
+.appointment-popup-slot-item.disabled {
+  color: #bbb;
+  cursor: not-allowed;
+}
+
+.appointment-popup-slot-item label {
+  cursor: pointer;
+}
+
+.appointment-popup-radio {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.appointment-popup-submit-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  font-weight: 700;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.appointment-popup-submit-btn:hover {
+  background-color: #0056b3;
+}
+
+.appointment-popup-confirmation {
+  margin-top: 20px;
+  background-color: #d4edda;
+  color: #155724;
+  padding: 12px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.appointment-popup-close-btn {
+  margin-top: 15px;
+  background: transparent;
+  border: none;
+  color: red;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+  font-size: 12px;
+}
+
+.appointment-popup-error-msg {
+  color: red;
+  font-size: 9px;
+  font-weight: 600;
+}
+
+@media screen and (min-width: 768px) {
+  .appointment-popup-label {
+    font-size: 14px;
+  }
+
+  .appointment-popup-slots-group label {
+    font-size: 14px;
+  }
+
+  .appointment-popup-submit-btn {
+    font-size: 14px;
+  }
+
+  .appointment-popup-close-btn {
+    font-size: 14px;
+  }
+
+  .appointment-popup-error-msg {
+    font-size: 11px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .popup-content {
+    max-width: 600px !important;
+  }
+
+  .appointment-popup {
+    padding: 40px;
+  }
+
+  .appointment-popup-doctor-name {
+    font-size: 32px;
+  }
+
+  .appointment-popup-specialization {
+    font-size: 24px;
+  }
+
+  .appointment-popup-label {
+    font-size: 18px;
+  }
+
+  .appointment-popup-slots-group label {
+    font-size: 18px;
+  }
+
+  .appointment-popup-submit-btn {
+    font-size: 22px;
+    margin-top: 15px;
+  }
+
+  .appointment-popup-close-btn {
+    font-size: 18px;
+    margin-top: 15px;
+  }
+
+  .appointment-popup-error-msg {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,97 @@
+.nav-container {
+  padding: 2px 13px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.nav-btn {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  padding: 4px;
+}
+
+.brand-highlight {
+  color: #6197bd;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 2px;
+  vertical-align: baseline;
+}
+
+.logout-btn {
+  background-color: #6197bd;
+  color: #ffffff;
+  padding: 4px 10px;
+  font-weight: 600;
+}
+
+@media screen and (min-width: 768px) {
+  .nav-container {
+    padding: 2px 48px;
+  }
+
+  .logout-btn {
+    width: 20%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .nav-container {
+    padding: 2px 68px;
+  }
+
+  .nav-inner-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .nav-options {
+    display: flex;
+    align-items: center;
+    flex-grow: 0;
+    gap: 80px;
+    font-size: 18px;
+  }
+
+  .navbar-brand {
+    font-size: 22px;
+  }
+
+  .brand-highlight {
+    font-size: 32px;
+  }
+
+  .brand-icon {
+    width: 35px;
+    height: 35px;
+  }
+
+  .logout-btn {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .nav-container {
+    padding: 15px 88px;
+  }
+
+  .navbar-brand {
+    font-size: 28px;
+  }
+
+  .brand-highlight {
+    font-size: 38px;
+  }
+
+  .brand-icon {
+    width: 50px;
+    height: 50px;
+  }
+
+  .nav-options {
+    font-size: 26px;
+  }
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anusha Reddy",
+    "specialization": "Cardiologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "Available Today",
+    "experience": "Dr. Anusha Reddy has over 15 years of experience in cardiology, specializing in treating complex heart diseases such as arrhythmias, coronary artery disease, and heart failure. She is well-versed in performing diagnostic procedures including echocardiograms and stress tests to provide accurate treatment plans.",
+    "specialization_desc": "As a cardiologist, Dr. Reddy focuses on the prevention, diagnosis, and treatment of heart and vascular system disorders, aiming to improve cardiac function and patient quality of life through both medical and interventional therapies.",
+    "booked_slots": ["10:00 AM", "1:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Bhaskar Rao",
+    "specialization": "Dermatologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "Fully Booked",
+    "experience": "With more than a decade of experience, Dr. Bhaskar Rao is an expert in managing a wide range of dermatological conditions, including chronic skin disorders, cosmetic dermatology, and skin cancer treatments. He uses the latest technology and treatments to enhance skin health.",
+    "specialization_desc": "Dr. Rao specializes in diagnosing and treating diseases affecting skin, hair, and nails, including psoriasis, eczema, acne, and skin infections, providing both medical and surgical care tailored to individual patient needs.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+
+  {
+    "id": 3,
+    "name": "Dr. Dinesh Naik",
+    "specialization": "Orthopedic Surgeon",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "Available Today",
+    "experience": "Dr. Dinesh Naik brings over 12 years of surgical expertise in orthopedics, specializing in joint replacement, arthroscopic surgeries, and treatment of sports injuries. He focuses on minimally invasive techniques to ensure faster recovery and optimal mobility for his patients.",
+    "specialization_desc": "As an orthopedic surgeon, Dr. Naik treats injuries and disorders of the bones, joints, ligaments, and muscles, working with patients to restore function and reduce pain caused by trauma, arthritis, or degenerative diseases.",
+    "booked_slots": ["1:00 PM"]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Eesha Reddy",
+    "specialization": "Neurologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "Available Today",
+    "experience": "With over 14 years of experience, Dr. Eesha Reddy is highly skilled in diagnosing and managing neurological disorders such as epilepsy, stroke, and multiple sclerosis. She uses advanced diagnostic tools like MRI and EEG to deliver precise care.",
+    "specialization_desc": "Dr. Reddy specializes in diseases of the nervous system including the brain, spinal cord, and peripheral nerves, providing both medical and rehabilitative treatment to improve neurological function and patient outcomes.",
+    "booked_slots": ["11:00 AM", "1:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Charitha Kumar",
+    "specialization": "Pediatrician",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "On Leave",
+    "experience": "Dr. Charitha Kumar has more than 10 years of experience in pediatric medicine, focusing on child health from infancy through adolescence. She provides comprehensive care including immunizations, growth monitoring, and treatment of acute and chronic illnesses.",
+    "specialization_desc": "Specializing in pediatric care, Dr. Kumar emphasizes preventive healthcare and early intervention for children’s physical, emotional, and developmental wellbeing.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Farhan Shaik",
+    "specialization": "General Practitioner",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "Fully Booked",
+    "experience": "With 8 years of clinical practice, Dr. Farhan Shaik offers broad primary healthcare services including diagnosis, treatment, and prevention of various illnesses, managing both acute and chronic conditions across all age groups.",
+    "specialization_desc": "As a general practitioner, Dr. Shaik provides holistic and continuous care for individuals, coordinating with specialists as needed and focusing on overall wellness and disease prevention.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Harsha Reddy",
+    "specialization": "Urologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "Available Today",
+    "experience": "Dr. Harsha Reddy has extensive experience treating a variety of urological conditions, including urinary tract infections, kidney stones, and prostate disorders. He is skilled in both surgical and non-surgical interventions.",
+    "specialization_desc": "Focusing on the urinary tract and male reproductive system, Dr. Reddy addresses disorders related to kidney function, bladder control, and reproductive health.",
+    "booked_slots": ["10:00 AM", "3:00 PM"]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Gayatri Deshmukh",
+    "specialization": "Ophthalmologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "On Leave",
+    "experience": "With over 12 years in ophthalmology, Dr. Gayatri Deshmukh specializes in diagnosing and treating eye diseases such as glaucoma, cataracts, and retinal disorders, as well as performing corrective surgeries.",
+    "specialization_desc": "Dr. Deshmukh provides comprehensive eye care including vision correction, disease management, and surgical treatment to preserve and improve eyesight.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Jayant Naidu",
+    "specialization": "ENT Specialist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "Fully Booked",
+    "experience": "Dr. Jayant Naidu has over 10 years of expertise in ear, nose, and throat disorders, managing cases ranging from sinus infections to hearing loss and voice disorders, utilizing both medical and surgical approaches.",
+    "specialization_desc": "Specializing in otolaryngology, Dr. Naidu treats conditions affecting the ears, nose, throat, and related structures of the head and neck.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Kavya Reddy",
+    "specialization": "Psychiatrist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "Available Today",
+    "experience": "Dr. Kavya Reddy offers expert care in mental health with 9 years of experience in treating anxiety, depression, and other psychiatric disorders, providing therapy and medication management tailored to individual needs.",
+    "specialization_desc": "Focusing on mental health and behavioral disorders, Dr. Reddy provides comprehensive psychiatric evaluations, counseling, and treatment plans.",
+    "booked_slots": ["3:00 PM"]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Lokesh Varma",
+    "specialization": "Oncologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "On Leave",
+    "experience": "With 15 years of experience in oncology, Dr. Lokesh Varma specializes in diagnosing and treating various types of cancer using chemotherapy, radiation, and immunotherapy, aiming for personalized patient-centered care.",
+    "specialization_desc": "Dr. Varma focuses on cancer treatment and supportive care, helping patients navigate complex therapies and improve quality of life.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Meena Rao",
+    "specialization": "Dentist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "Available Today",
+    "experience": "Dr. Meena Rao has over 11 years of experience in dental health, performing routine checkups, oral surgeries, and cosmetic dentistry procedures to enhance oral hygiene and patient smiles.",
+    "specialization_desc": "Specializing in oral health, Dr. Rao treats dental diseases, gum infections, and performs restorative and cosmetic dental procedures.",
+    "booked_slots": ["10:00 AM", "1:00 PM", "2:00 PM"]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Ishita Rao",
+    "specialization": "Gynecologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "Available Today",
+    "experience": "Dr. Ishita Rao has 13 years of experience in women's reproductive health, providing prenatal care, managing menstrual disorders, and performing minimally invasive surgeries for gynecological conditions.",
+    "specialization_desc": "Focused on female reproductive health, Dr. Rao delivers care related to pregnancy, childbirth, fertility, and menopause management.",
+    "booked_slots": ["10:00 AM", "1:00 PM"]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Naveen Reddy",
+    "specialization": "Pulmonologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/maledoc_lnz1tb.png",
+    "availability": "Fully Booked",
+    "experience": "Dr. Naveen Reddy brings 14 years of specialized experience in pulmonary medicine, treating chronic respiratory diseases such as asthma, COPD, and lung infections, with an emphasis on patient education and advanced therapies.",
+    "specialization_desc": "Specializing in lung and respiratory tract disorders, Dr. Reddy offers comprehensive diagnosis and management of breathing-related illnesses.",
+    "booked_slots": ["10:00 AM", "11:00 AM", "1:00 PM", "2:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Oviya Kumari",
+    "specialization": "Endocrinologist",
+    "profile_image": "https://res.cloudinary.com/dc6op6brr/image/upload/v1754065496/femaledoc_rhxik8.png",
+    "availability": "Available Today",
+    "experience": "With 10 years of experience, Dr. Oviya Kumari treats hormonal imbalances, metabolic disorders, and chronic conditions like diabetes and thyroid diseases, focusing on personalized treatment and lifestyle counseling.",
+    "specialization_desc": "Dr. Kumari specializes in the diagnosis and management of endocrine system disorders, ensuring hormonal balance and metabolic health.",
+    "booked_slots": ["10:00 AM", "3:00 PM"]
+  }
+]
