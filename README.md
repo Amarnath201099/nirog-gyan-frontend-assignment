@@ -70,7 +70,7 @@ src/
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/Amarnath201099/nirog-gyan-frontend-assignment.git](https://github.com/Amarnath201099/nirog-gyan-frontend-assignment.git)
+   git clone https://github.com/Amarnath201099/nirog-gyan-frontend-assignment.git
    cd nirog-gyan-frontend-assignment
    ```
 
