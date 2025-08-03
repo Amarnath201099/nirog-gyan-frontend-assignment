@@ -1,6 +1,7 @@
 # 🏥 NirogGyan Healthcare Appointment Booking App
 
-A fully responsive, intuitive, and modern healthcare appointment booking application built using React. This platform enables users to effortlessly search for doctors by name or specialization, view detailed doctor profiles including their real-time availability, and conveniently book appointments through a streamlined and accessible interface. Designed with user experience at its core, this app ensures that patients can connect with healthcare professionals quickly and efficiently—whether they're on a desktop, tablet, or mobile device. Ideal for demonstrating frontend development skills in a practical, healthcare-focused scenario.
+A **fully responsive**, **modern healthcare appointment booking** app built with **React**. Users can **search for doctors** by name or specialization, **view profiles with real-time availability**, and **book appointments easily** through a clean, intuitive interface.  
+Optimized for **all devices**—desktop, tablet, and mobile—with a strong focus on **user experience**. Ideal for showcasing **frontend development** skills in a **real-world healthcare scenario**.
 
 ---
 
